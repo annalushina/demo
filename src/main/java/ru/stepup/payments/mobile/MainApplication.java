@@ -5,6 +5,7 @@ public class MainApplication {
         System.out.println("Hello World");
         System.out.println("Третий коммит изменен");
         int b=10;
-        System.out.println("b= "+b);
+        int a= 20;
+        System.out.println("result= "+(b+a));
     }
 }
