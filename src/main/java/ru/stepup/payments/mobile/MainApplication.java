@@ -7,5 +7,6 @@ public class MainApplication {
         int b=10;
         int a= 20;
         System.out.println("result= "+(b+a));
+        System.out.println("трололо");
     }
 }
